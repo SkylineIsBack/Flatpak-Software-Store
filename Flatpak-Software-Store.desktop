@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Flatpak Software Store
+Comment=A Software Store
+Exec=python3 /usr/bin/Flatpak-Software-Store.py
+Icon=softwarecenter
+Categories=Utility
+Terminal=false
